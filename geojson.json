@@ -1,0 +1,6817 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hastings Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5715787410736084,
+          50.85306637099662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kent County Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.867367386817932,
+          51.16216727572551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fairlight Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.658568,
+          50.874656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Old Market Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674078,
+          53.213734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Old Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.675564,
+          53.232504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.469696,
+          53.245437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "13 rue Raymond Hervouet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.235993,
+          46.189270
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "salle des fetes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341478,
+          46.182798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "11 La Grand Rue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.386504,
+          46.238921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "salle polyvalente de Soumans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306578,
+          46.301485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mille Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.120783,
+          46.304631
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bexhill Ambulance Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.466453,
+          50.844274
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stagsden Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568404,
+          52.129215
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedford Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.557171,
+          52.244703
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Village Hall Slip End Bedfordshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.433899,
+          51.854611
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Capability House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.408533,
+          52.008286
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "name" : "Beulah Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.474005,
+          50.842177
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bexhill Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.469948,
+          50.840330
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bexhill Train Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.476875,
+          50.841259
+        ]
+      }
+    },
+		{
+      "type": "Feature",
+      "properties": {
+        "name" : "Nationwide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.433374,
+          50.844787
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "1 Copse Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.446451,
+          50.842857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Crown Leisure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7859998941421508,
+          50.93698564550049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5487370491027832,
+          50.88790841750066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Castleham Industial Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5365973711013794,
+          50.880554215678444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Independent Roofing Supplies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.46702623367309576,
+          50.84429420643194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Coast Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3575599193572998,
+          50.814775111341724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Coast Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3616154193878174,
+          50.81657145734178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pevensey Bay Holiday Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.34156322479248047,
+          50.805283834791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Battle Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4829344153404236,
+          50.91857337648447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Church Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4518154263496399,
+          50.896944745652334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Buckswood School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6350719928741455,
+          50.90761993726439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "19-20 Birch road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3046989440917969,
+          50.788533808331024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "DFS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2799528837203979,
+          50.79238277679323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chaucer Business Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2698516845703125,
+          50.819181119933184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brook Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2441239356994629,
+          50.821899080986434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cliff Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.269390344619751,
+          50.75325775726033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chipping Norton Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2682209014892578,
+          50.762060601338746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Military Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7613182067871094,
+          50.9918731570454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Marsh Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9484505653381348,
+          50.98700394690796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Willop Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0210740566253662,
+          51.04030780358355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Salt Storage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0510611534118652,
+          51.094075984662794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Etchinghill Golf Club Clubhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.092238426208496,
+          51.118030730849426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lyminge Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0842186212539673,
+          51.126236215477775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "13 Station Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0916858911514282,
+          51.12753239384942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2005031108856201,
+          51.225283800899746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Betteshanger Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.346426010131836,
+          51.23004063478149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dunkerley's Seafood Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.404179334640503,
+          51.2230799032941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Deal town centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4000487327575684,
+          51.22414826927559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Royal St George's Golf Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3667571544647217,
+          51.273716005147286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Mary's Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3659337162971494,
+          51.32964965362208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Custom Coffee House and Carvery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4229011535644531,
+          51.33206295527179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ramsgate Tunnels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4265570044517517,
+          51.33447110258954
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Hastings Direct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.455461,
+          50.842213
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Grosvenor Park Care Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.487636,
+          50.840438
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "HM Coastguard Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.643844,
+          50.870757
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "38 Peartree Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.436757,
+          50.848454
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Manor Barn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.480188,
+          50.845045
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Pebsham Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.501501,
+          50.851016
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bexhill Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.461259,
+          50.837862
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Windmill Drive Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.462620,
+          50.852876
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bexhill Train Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.477112,
+          50.840730
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Malvern House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.463021,
+          50.836388
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "St. Peter's Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.478766,
+          50.846221
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "St. Mark's Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.437339,
+          50.845797
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Church of Saint Micheal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.496427,
+          50.847685
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "St. Stephen's Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.461931,
+          50.849761
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Sidley Fish & Chips"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.471757,
+          50.855971
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "24 Wilton Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.475755,
+          50.839448
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Wrestwood Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.475464,
+          50.854240
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "One Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.461698,
+          50.857472
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "John Bray and Sons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.591359,
+          50.857552
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Unique Car Sound & Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.664056,
+          51.350454
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Hastings County Court and Police Sation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.566596,
+          50.859471
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Springfield Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.556313,
+          50.863296
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Nevill Cricket Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.268385,
+          51.122396
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Tunbridge Wells Tennis Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.267140,
+          51.123191
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Goudhurst & Kilndown C of E school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.467987,
+          51.114123
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Staplehurst Cricket & Tennis Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.554217,
+          51.155625
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Paddock Wood Town Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.392183,
+          51.178470
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "Birling Church Car Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.410056,
+          51.319599
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Great Easthall Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.765781,
+          51.343988
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The White Horse Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.947327,
+          51.297486
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "70 Salisbury Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.070903,
+          51.288723
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Woodnesborough Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.310410,
+          51.264852
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Crown Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.347234,
+          51.235528
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "City Way Medical Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.510906,
+          51.372159
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Conquest Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.568155,
+          50.885533
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Poppins Pre-school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.533014,
+          51.390029
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Trinity Close"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.613485,
+          51.583280
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Smythe Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.649442,
+          51.664287
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brentwood Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.299251,
+          51.616836
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Matthews Church Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.232413,
+          51.552842
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Drive Methodist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.052807,
+          51.576071
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "East London Rugby Football Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010268,
+          51.529324
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Blagdons Sports Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.243555,
+          51.402136
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Twickenham Stadium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.341499,
+          51.456058
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "University Vandals RC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.441125,
+          51.387146
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Saint James' Parish Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.461040,
+          51.371739
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sunningdale Parish Council"
+       },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.636024,
+          51.394969
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Coopers Hill Car Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568391,
+          51.436742
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bathurst Walk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.506930,
+          51.507716
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Maidenhead RUFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.716202,
+          51.512222
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cookham Reach Sailing Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.711251,
+          51.563263
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cookham Montessori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.723231,
+          51.559321
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mint Velvet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.774671,
+          51.570498
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Booker Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.795743,
+          51.615607
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chipping Norton Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.538698,
+          51.930500
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Red Lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.544214,
+          51.940605
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fisher Close"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719745,
+          51.926322
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "B4019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.774005,
+          51.610575
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Redwing Close"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.141503,
+          51.981026
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Two Rivers Housing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.395163,
+          51.932818
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bill Mills HR9 5TH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.530040,
+          51.895966
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Helipac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.402130,
+          52.118379
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Dewdrop Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.282051,
+          52.206058
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stoke Prior Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.085110,
+          52.302640
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Woodlands Holiday Home Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.345189,
+          52.390052
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Romsley & Hunnington Cricket Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.049779,
+          52.429540
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bournville Rugby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.964565,
+          52.475201
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Essington Working Mens Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.059715,
+          52.624173
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "C1007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.283995,
+          58.530980
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "RBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.417537,
+          58.475806
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Carnegie Hall, Clashmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.114347,
+          57.878139
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Club House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.907364,
+          57.656531
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Laburnum Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.808407,
+          57.503264
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kilmarnock Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.851384,
+          57.417151
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rothienorman Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.464768,
+          57.411627
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Golf Club House"
+       },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.021139,
+          57.277380
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Glam Beauty Therapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.156380,
+          57.262138
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Newmachar Fish Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.190314,
+          57.265619
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Community Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.523843,
+          57.227059
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Aberdeen AB22 8LN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.100565,
+          57.180835
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Malmaison Aberdeen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.135632,
+          57.140932
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Westhill Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.304153,
+          57.155013
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Westhill Shopping Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.278630,
+          57.153658
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Newtonhill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.158288,
+          57.031266
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Newtonhill Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.149106,
+          57.032325
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Glenbervie Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.349770,
+          56.918392
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wairds Park caravan Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.326312,
+          56.796653
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Castle Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.334778,
+          56.795319
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Glenisla Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.284105,
+          56.729771
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ann Davidson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.268278,
+          56.545072
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Knockendarroch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.727422,
+          56.703539
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Crail Golfing Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.594551,
+          56.280734
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Balcomie Links Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.622015,
+          56.264576
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kilrenny Parish Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.686957,
+          56.234432
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Skeith Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.691834,
+          56.227471
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Waid Community Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.703789,
+          56.226813
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The golden lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.689748,
+          56.223071
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Anstruther RNLI Lifeboat Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.697171,
+          56.221695
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Waid Community Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.703757,
+          56.226801
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Anstruther Golf Course Clubhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.705468,
+          56.219105
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "James Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.727956,
+          56.215076
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Monans Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.771595,
+          56.206055
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Charleton Golf Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.864351,
+          56.222970
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Colinsburgh Parish Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.847930,
+          56.220561
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Leven Bus Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.999419,
+          56.193315
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Main Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.926008,
+          56.221051
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lundin Links Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.953573,
+          56.211006
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "New Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.921696,
+          54.037055
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Barden Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.972510,
+          53.985816
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Nell Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.808518,
+          53.934325
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lynfield Mount Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.804794,
+          53.809723
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Crowne Plaza Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.557844,
+          53.796613
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Town Hall Hebden Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.013034,
+          53.742397
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Microsearch Laboratories"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976319,
+          53.729032
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Holywell Green General Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.867081,
+          53.675329
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stainland Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.883742,
+          53.670960
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sowood Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.880119,
+          53.664174
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Joseph's Roman Catholic Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.323212,
+          53.644786
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Helens Flowers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.341166,
+          53.614431
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fairlight Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663540,
+          50.877998
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stokes Newsagents"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.272546,
+          50.929639
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "West Sussex County Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.325100,
+          51.064166
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Shermanbury Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.291803,
+          50.960800
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Robinswood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.360428,
+          51.070776
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Woodingdean Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.078132,
+          50.835788
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hastings Cemetery & Crematorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.590916,
+          50.880868
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Commanders Walk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.658216,
+          50.875040
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Azur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.555915,
+          50.850682
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Petworth Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.611062,
+          50.983320
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Eastbourne Borough Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.279154,
+          50.768578
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Willingdon & Jevington Parish Council Parish Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.248780,
+          50.807979
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Classroom on the Coast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.591571,
+          50.855712
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+      "name" : "Steyning Grammar School"
+    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.329437,
+          50.892929
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Amberley Museum and Heritage Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.539502,
+          50.898105
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Delta Tennis Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.818015,
+          51.559250
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Boots Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.451881,
+          50.917769
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Flair Door Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.754350,
+          52.467427
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mayfield Church of England Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.262868,
+          51.020820
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Woodhill Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.252417,
+          51.018961
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Five Ashes Church of England Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.219359,
+          51.002628
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cross in Hand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.224767,
+          50.972944
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.247011,
+          50.970233
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Union Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.250599,
+          50.971307
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Welcome Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.257535,
+          50.965014
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Watsons, Heathfield Auction Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.268689,
+          50.974097
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Star Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.274964,
+          50.959600
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Heathfield Community College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.282009,
+          50.966556
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Punnetts Town Community Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.304625,
+          50.960390
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Black Duck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.289872,
+          50.940508
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243957,
+          50.934667
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Downwood Veterinary Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243603,
+          50.934358
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rother TN19 7NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.335258,
+          50.987501
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Maynards Green Community Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.250083,
+          50.945390
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Holy Cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.094966,
+          50.973416
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Telephone Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.096488,
+          50.972171
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wealdon Bowls Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.080872,
+          50.994531
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Peckham's Butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.407006,
+          50.868270
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Five Ashes Church of England Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.219327,
+          51.002655
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Plough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.261425,
+          51.032757
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Seaside post office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.300554,
+          50.780030
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Eastbourne Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.281156,
+          50.769439
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Shaw Barn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.168845,
+          50.908860
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "McColl's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.250956,
+          50.821294
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Barton Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.425545,
+          51.963856
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tangles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.423548,
+          51.972222
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "C & H Barton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.427183,
+          51.967930
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Star Rowing Club & Viking Kayak Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.470877,
+          52.134206
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Andrew’s Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.456379,
+          52.146329
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Bedes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.477723,
+          52.138756
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "51a Pembroke Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.452494,
+          52.137073
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Enterprise House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.490168,
+          52.132201
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pavilion Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.465819,
+          52.147928
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wentworth Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.428607,
+          52.157418
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedford Athletic Rugby Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.437171,
+          52.160519
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St John Rigby Catholic Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.448420,
+          52.145860
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedford Rowing Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.465087,
+          52.134144
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Biddenham Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.507413,
+          52.138869
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Community Fire Station Biggleswade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.259491,
+          52.088019
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stratton Guest House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.259491,
+          52.086564
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bletsoe Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.504502,
+          52.212038
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Elizabeth Curtis riding school for the disabled"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.545156,
+          52.150142
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bromham Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.527946,
+          52.150519
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "White Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.292202,
+          52.071424
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Caddington Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.457402,
+          51.865657
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Campton Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.354937,
+          52.028450
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Carlton Lower School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.604401,
+          52.191274
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chalton Lower School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.500565,
+          51.926521
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Clapham Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.496090,
+          52.161657
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Biddenham Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.507667,
+          52.140653
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Admiral Public House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.303922,
+          52.036368
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Lakes Farm Equestrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.311759,
+          52.040199
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Clophill Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.420398,
+          52.031604
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cockernhoe Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.367031,
+          51.900352
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Colmworth Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.384374,
+          52.212596
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cople Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.391269,
+          52.122447
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dunstable Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.534735,
+          51.892127
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Coffee Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.085563,
+          53.323042
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.573018,
+          51.631649
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Eversholt Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571852,
+          51.983844
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Sports Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.355133,
+          51.681898
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.930341,
+          51.885447
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cotton End Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.415785,
+          52.093159
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Budgens Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.610693,
+          52.068262
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Holywell School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.604216,
+          52.070627
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dunton Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200586,
+          52.081945
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Sun Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.551058,
+          52.207917
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rufus Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.510531,
+          52.009995
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Great Barford Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.352050,
+          52.157796
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Billington Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.634715,
+          51.896081
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Middlefield, 10 Fox Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.143306,
+          52.188057
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Harlington Parish Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.491507,
+          51.963278
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-operative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.609355,
+          52.201558
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Harrold Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.603781,
+          52.204684
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Haynes Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.396967,
+          52.068716
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Eastern Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.655122,
+          51.942594
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Henlow Recreation Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.283322,
+          52.031782
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hitchin Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302072,
+          52.008342
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Henlow Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302618,
+          52.008332
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Oundle Road Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.249297,
+          52.565863
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Shoreham F.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.257236,
+          50.835729
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.476703,
+          52.062507
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Husborne Crawley Lower School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.602684,
+          52.012416
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ickwell Cricket Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.322221,
+          52.094728
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedfordshire Fire & Rescue Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.480212,
+          52.114931
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedfordshire Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.493167,
+          52.120031
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kempston Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.489016,
+          52.121089
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hillgrounds Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.492596,
+          52.126422
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Keysoe Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.416772,
+          52.238350
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Langford Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.272436,
+          52.051646
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Post office Leighton Buzzard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.664446,
+          51.915292
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Leighton Buzzard Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.659482,
+          51.915884
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mentmore Road Memorial Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.673256,
+          51.912971
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Astral Park Sports & Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.639952,
+          51.905928
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lower Stondon Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.312737,
+          52.006670
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stondon Lower School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.321579,
+          52.002334
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bury Park Community Resource Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.427611,
+          51.884578
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Luton Train Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.413912,
+          51.882252
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.416975,
+          51.880618
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "NOAH Day Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.407721,
+          51.875049
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Luton Airport Parkway Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.396315,
+          51.872351
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Luton Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.422319,
+          51.888259
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Leagrave Train Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.458480,
+          51.905236
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hillson M J"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.454504,
+          52.027809
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dog and Badger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.438594,
+          52.026805
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The White Hart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.467338,
+          52.030399
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Meppershall Church of England Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345702,
+          52.013007
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Milton Ernest Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.510940,
+          52.193646
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Oakley Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.528433,
+          52.169470
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.340344,
+          52.082423
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pavenham Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.539339,
+          52.188668
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pavenham Park Golf Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.542169,
+          52.192756
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pertenhall and Swineshead Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.411185,
+          52.278926
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Yardley Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.643503,
+          51.834381
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Podington Garden Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.621402,
+          52.252724
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Potton Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.214158,
+          52.127693
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Burgoyne Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.220439,
+          52.130349
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Horse and Jockey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.425695,
+          52.176932
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Polhill Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.420099,
+          52.161819
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Riseley Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.466937,
+          52.259069
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Swithun's VC Lower School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.285028,
+          52.126738
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sandy Upper School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.290326,
+          52.137869
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sandy Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.289181,
+          52.129458
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.295092,
+          52.141448
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sharnbrook Palying Fields Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.550321,
+          52.225025
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sharnbrook Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.534390,
+          52.224705
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lloyds Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.334796,
+          52.038163
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Shefford Town Memorial Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.327396,
+          52.035953
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Community Fire Station Shefford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.331178,
+          52.037476
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Shillington Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.359669,
+          51.994140
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Star and Garter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.424718,
+          52.007874
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Silsoe & Waterslade Gardeners Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.426232,
+          52.013141
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Silsoe Lower School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.429335,
+          52.003774
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Broomgrove Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.597579,
+          50.873571
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Grove Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.433899,
+          51.854618
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Alexandra Park Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.579306,
+          50.864195
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Gateway Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012184,
+          50.793985
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Ark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.051995,
+          50.793187
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Jubilee Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.616761,
+          50.794656
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Capability House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.408555,
+          52.008276
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Markyate Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.433910,
+          51.854598
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedford Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.557182,
+          52.244710
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stagsden Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568425,
+          52.129209
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hadham Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.027353,
+          51.880608
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St. Peter's RC Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.263284,
+          50.837663
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stevington Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.559227,
+          52.169902
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fenny Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.718623,
+          51.956552
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "RSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.190128,
+          51.113359
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Studham Sports & Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.513046,
+          51.825743
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Red Lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.517139,
+          51.831756
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.449737,
+          52.280423
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Toddingtion Community Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.534729,
+          51.942357
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Totternhoe Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571659,
+          51.884424
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Turvey Station End"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.597656,
+          52.159075
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Turvey Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.623777,
+          52.162453
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Caldecote Playing Fields Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.288939,
+          52.097810
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wilden Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.402934,
+          52.186608
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Peace Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.380907,
+          52.136931
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wing Parish Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.715502,
+          51.897156
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lakeview Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.460255,
+          52.091234
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Woburn Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.620343,
+          51.992736
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wootton Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.531448,
+          52.094332
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The New Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.602628,
+          52.268279
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Abbotsley Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.203803,
+          52.193359
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Alconbury Sports & Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.264869,
+          52.370507
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wimpole Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.049782,
+          52.140930
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bainton Reading Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.385574,
+          52.640613
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Barnack Church of England Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.410709,
+          52.632161
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Barrington Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.034082,
+          52.127138
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Barton C of E Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.057499,
+          52.182416
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Benwick Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.023635,
+          52.492783
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bluntisham Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012220,
+          52.355867
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "7 Station Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.005021,
+          52.350028
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.064078,
+          52.190587
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brampton Parish Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.224981,
+          52.324702
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Village Church Huntingdon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.224949,
+          52.322507
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "All Saints (Buckworth parish church)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.313824,
+          52.377158
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Burrough Green C of E Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.392888,
+          52.174312
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Foon Lok Chinese Take-Away"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.325665,
+          52.278703
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bury Storess"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.112931,
+          52.438210
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lower Cambourne Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.083018,
+          52.217476
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Papworth Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118335,
+          52.251992
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St John's College Playing Fields"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.108292,
+          52.209087
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cambridge Canoe Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.116496,
+          52.196146
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cambridge Science Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.146638,
+          52.233800
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "1 Spatial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.152582,
+          52.229420
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cambridge Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.170347,
+          52.207725
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Halls the Chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.344942,
+          52.573645
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Jubilee Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.047468,
+          52.457386
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "34 Chequers Close"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.175292,
+          52.185642
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ashley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.482649,
+          52.224054
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Christchurch Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199931,
+          52.551159
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Townley County Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199621,
+          52.547719
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "South Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.069348,
+          52.559431
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Coates Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.072664,
+          52.563494
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Carpenters Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074780,
+          52.561561
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hillsborough Leisure Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.496148,
+          53.408439
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lakeside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.262925,
+          52.620903
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Nags Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094001,
+          52.557064
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Thornham Way"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.092206,
+          52.556156
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Eastrea Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.089092,
+          52.557627
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Gables Care Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085464,
+          52.558954
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Crosshall Nursery School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.283346,
+          52.232934
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Noonan and Giggs Property Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.289554,
+          52.214430
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Poacher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074322,
+          52.254856
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Eltisley Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.139107,
+          52.220457
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ely On Par Driving Range and Golf Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.249149,
+          52.410236
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The King's School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.261693,
+          52.396818
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "City of Ely Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.266074,
+          52.402251
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "SPAR - Emneth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.208442,
+          52.640726
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Avalia Couture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.228899,
+          52.541846
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Farcet Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.226085,
+          52.535798
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fen Drayton Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.043776,
+          52.298240
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ash's Fenstanton Nisa Local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.071161,
+          52.298150
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Church Street Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.002182,
+          52.381842
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fowlmere Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.075932,
+          52.088521
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Foxton Bowling Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.062179,
+          52.115106
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Gamlingay Eco Hub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.189986,
+          52.152055
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Girton Parish Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.084881,
+          52.240120
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Godmanchester Rovers FC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.161383,
+          52.309399
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rumbles Fish Bar Godmanchester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.163604,
+          52.311220
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Gorefield Bowls Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.100877,
+          52.684757
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Rupert Brooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.093589,
+          52.181178
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Great Abington County Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.238329,
+          52.116749
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Great Gidding Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.356597,
+          52.436150
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Wilbrahams Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.266239,
+          52.195605
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Great Stukeley Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.210237,
+          52.356411
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.293745,
+          52.244602
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sweet Talk News"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.277734,
+          52.097816
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Leverington Community Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.136749,
+          52.680409
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cambridgeshire Fire and Rescue Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.284482,
+          52.097821
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Littleport Leisure and Sports Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.301464,
+          52.462874
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.726385,
+          56.500541
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.264037,
+          50.839607
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Carnoustie Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.712149,
+          56.500866
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Precise Component Manufacture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.089883,
+          52.573264
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Marina Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.066010,
+          52.554754
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Park Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.177858,
+          52.480520
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rose and Crown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.175447,
+          52.482199
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Charlemont Drive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.176777,
+          52.497129
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Village Vet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.045824,
+          52.280578
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.000316,
+          52.257738
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St James (Lode Parish Church)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.245842,
+          52.241949
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Littleport Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.308396,
+          52.456450
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St George's Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.301857,
+          52.458252
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.301840,
+          52.459939
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Little Thetford C of E (controlled) Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.248411,
+          52.362525
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Main Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.122900,
+          52.140387
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Samuel Jones Crescent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.267120,
+          52.244480
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Beijing Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.263274,
+          52.247127
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Manor Close"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.263816,
+          52.242532
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Pavillion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.259701,
+          52.251615
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Little Gransden Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.138464,
+          52.181833
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Downham Feoffees Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.241173,
+          52.433020
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "La Sella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.388737,
+          52.296973
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Recreation Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113495,
+          52.244186
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Peter's Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.189709,
+          52.337042
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Huntingdon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.182676,
+          52.329887
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "MAGPAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.182665,
+          52.327885
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118979,
+          52.335503
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Saint Andrew’s Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.104104,
+          52.253511
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hinchingbrooke Country Park Visitor Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.209329,
+          52.329993
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "West Pitkerro Industrial Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.862762,
+          56.522090
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ogilvie Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.791460,
+          57.442602
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Inchinnan Parish Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.432581,
+          55.889381
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wilson's of Musselburgh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.050797,
+          55.942741
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Manse Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.869289,
+          55.794517
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wigtown Medical Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.444452,
+          54.868257
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Juniper Green Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.284749,
+          55.906609
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Prince of Wales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.112422,
+          52.278548
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "West Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345387,
+          52.635377
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hampton Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.264115,
+          52.537309
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Arkenstall Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.148142,
+          52.358614
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hop Row, Haddenham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.151405,
+          52.356291
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Play2Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.058554,
+          52.608000
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.134582,
+          52.146565
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Shelford Rugby Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.122214,
+          52.158636
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.229967,
+          52.258714
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Glinton Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.297533,
+          52.639102
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Saint Nicholas (Glatton Parish Church)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.303049,
+          52.461052
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Flying Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.062288,
+          50.803490
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "William Parker School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.135036,
+          52.194550
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bolney Wine Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.211928,
+          50.994237
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Riverside Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.082860,
+          52.551048
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "118 Wisbech Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.072427,
+          52.556730
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Braza Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092699,
+          52.560140
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.097898,
+          52.549369
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Wendredas Church Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.085100,
+          52.536446
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Costcutters Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092980,
+          52.544220
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Corner Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.080846,
+          52.546155
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Crown Lodge Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243325,
+          52.609547
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ferry Meadows Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.307165,
+          52.563180
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Callflex Business Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.316575,
+          53.500010
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stedham Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.772883,
+          50.993914
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "All Saints Church, Eastbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.279783,
+          50.761882
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Greystones House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694467,
+          50.739678
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Unit 31 Murrell Green Business Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.935004,
+          51.289424
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Goose House Ln, Darwin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.467675,
+          53.706558
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Seafield St, Portsoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.689805,
+          57.681500
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "High St, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.523276,
+          57.663766
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Carmelite St, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.520159,
+          57.665002
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ibstock Brick Ashdown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.444840,
+          50.857529
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Tanners, Meadrow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.601351,
+          51.192406
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Downs Solicitors LLP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.410514,
+          51.328493
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "156 high street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.329866,
+          51.232661
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cowfold village hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.272421,
+          50.989571
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Peterborough Central Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.241150,
+          52.576491
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.027689,
+          52.657233
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Macfarlane Grieve House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.119669,
+          52.248863
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Over County Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.017509,
+          52.314670
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Over Community & Conference Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.011260,
+          52.314406
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Midlands Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.466425,
+          52.480608
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Church Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.267741,
+          52.226992
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Northborough Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.296781,
+          52.662132
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "One Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.300629,
+          52.658629
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "225 High Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123858,
+          52.709641
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Needingworth Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031205,
+          52.329243
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Nassington VIllage Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.430586,
+          52.552990
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Bell Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028358,
+          52.642412
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Milton Bowls Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.160281,
+          52.240335
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mepal Post Office & Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.119460,
+          52.406579
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Technology Partnership"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.025448,
+          52.088113
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Hub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.018373,
+          52.085280
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Village Hall Marholm Cambridgeshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.304883,
+          52.604304
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Donato's Pizza & Kebab House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.539695,
+          52.666486
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Scout Hut "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.089487,
+          52.550107
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "George James & Son Funeral Care Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.085538,
+          52.548081
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cavalery Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.097860,
+          52.542217
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "1st March Scout Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.096511,
+          52.548968
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "2 Commercial Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.080997,
+          52.563995
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The March Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.089851,
+          52.552185
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Beauty by Evolution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079841,
+          52.553484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.381930410861969,
+          51.39111067958784
+        ]
+      }
+    }
+  ]
+}
+
+
