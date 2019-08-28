@@ -7,7 +7,7 @@ Most of these defibrillators were added from messages from users of the app and 
 
 thanks.
 
-#Contact details:
+Contact details:
 Name: Benjamin Davis
 Phone: 07927005515
 Email: benjamin@toppocketmedia.com
