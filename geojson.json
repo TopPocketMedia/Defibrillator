@@ -17,6 +17,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "251 Newbold Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.445303,
+          53.248860
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Kent County Council"
       },
       "geometry": {
