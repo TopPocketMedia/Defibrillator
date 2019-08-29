@@ -17,13 +17,26 @@
     {
       "type": "Feature",
       "properties": {
-        "name" : "251 Newbold Rd"
+        "name" : "Park Place, Horsham"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.445303,
-          53.248860
+          -0.326044,
+          51.061496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tan Wong Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.446867,
+          53.251460
         ]
       }
     },
