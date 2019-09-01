@@ -30,6 +30,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "The George Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.733651,
+          50.951073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Tan Wong Kitchen"
       },
       "geometry": {
