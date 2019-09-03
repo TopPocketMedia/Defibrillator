@@ -30,6 +30,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.574703,
+          51.323801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op Funeral Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.288838,
+          54.209568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Coastguard Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.275322,
+          51.931413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "The George Hotel"
       },
       "geometry": {
