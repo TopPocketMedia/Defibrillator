@@ -30,6 +30,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Horam Manor Country Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.239446,
+          50.931927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Co-op"
       },
       "geometry": {
