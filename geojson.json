@@ -43,6 +43,32 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Shermanbury Grange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.290728,
+          50.958970
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sarratt Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.491598,
+          51.681912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Co-op"
       },
       "geometry": {
