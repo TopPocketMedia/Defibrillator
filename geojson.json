@@ -43,6 +43,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Bristnall Hall Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.993209,
+          52.484128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Shermanbury Grange"
       },
       "geometry": {
