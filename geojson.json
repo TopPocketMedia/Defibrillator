@@ -963,6 +963,45 @@
         ]
       }
     },
+      {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedford Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.557166,
+          52.244690
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Village Hall Hadham Road Standon Herts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.027482,
+          51.880542
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bedfordshire Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.433903,
+          51.854596
+        ]
+      }
+    },
 	{
       "type": "Feature",
       "properties": {
@@ -4502,6 +4541,19 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "The Green"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.718620,
+          51.956538
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "Stevington Village Hall"
       },
       "geometry": {
@@ -4548,6 +4600,45 @@
         "coordinates": [
           -0.513046,
           51.825743
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Totternhoe Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571683,
+          51.884444
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Toddington Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.534729,
+          51.942348
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Wheatsheaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.302110,
+          52.163629
         ]
       }
     },
@@ -4652,6 +4743,19 @@
         "coordinates": [
           -0.402934,
           52.186608
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Willington Peace Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.380898,
+          52.136952
         ]
       }
     },
@@ -4775,6 +4879,32 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "Bar Hill Parish Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.018984,
+          52.252907
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wilfrid Wood Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.410706,
+          52.632160
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "Bainton Reading Room"
       },
       "geometry": {
@@ -4827,6 +4957,19 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "Benwick Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.023629,
+          52.492780
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "Benwick Village Hall"
       },
       "geometry": {
@@ -4834,6 +4977,19 @@
         "coordinates": [
           -0.023635,
           52.492783
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bluntisham Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.012714,
+          52.356116
         ]
       }
     },
@@ -4873,6 +5029,19 @@
         "coordinates": [
           -0.064078,
           52.190587
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bourn Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.064082,
+          52.190581
         ]
       }
     },
