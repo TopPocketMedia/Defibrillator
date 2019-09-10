@@ -6478,6 +6478,19 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "The Rising Sun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704536,
+          53.594691
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "118 Wisbech Rd"
       },
       "geometry": {
