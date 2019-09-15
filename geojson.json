@@ -56,6 +56,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Seathorne Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.343153,
+          53.162648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Bristnall Hall Academy"
       },
       "geometry": {
@@ -2182,6 +2195,58 @@
         "coordinates": [
           -2.697171,
           56.221695
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "RNLI Filey Lifeboat Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.283351,
+          54.211307
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sandwell Irish Community Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.012522,
+          52.490899
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Heaton Dene Day Nursery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.554792,
+          53.574909
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Coach House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.645520,
+          51.781106
         ]
       }
     },
@@ -5081,6 +5146,32 @@
         "coordinates": [
           0.005021,
           52.350028
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.406762,
+          53.220443
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Funeralcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.435884,
+          53.235854
         ]
       }
     },
