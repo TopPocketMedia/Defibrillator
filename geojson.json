@@ -30,6 +30,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Asda South Woodham Ferrers Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.619799,
+          51.643123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Horam Manor Country Park"
       },
       "geometry": {
