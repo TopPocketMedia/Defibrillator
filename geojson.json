@@ -30,6 +30,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Sainsbury's Local, Hockley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.656347,
+          51.601608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Asda South Woodham Ferrers Superstore"
       },
       "geometry": {
@@ -37,6 +50,58 @@
         "coordinates": [
           0.619799,
           51.643123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "West Park Leisure Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.289816,
+          52.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Cavalier, Kidderminster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.220665,
+          52.388538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "ASDA, Lowestoft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.742413,
+          52.470926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Londis, Nottingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.298429,
+          52.888785
         ]
       }
     },
