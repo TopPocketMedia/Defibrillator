@@ -30,6 +30,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Oxford Rd E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.611866,
+          51.480928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rear of Theatre Royal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.607767,
+          51.484344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Opposite United Reform Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.608937,
+          51.479980
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Sainsbury's Local, Hockley"
       },
       "geometry": {
@@ -479,6 +518,45 @@
         "coordinates": [
           -0.433899,
           51.854611
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Bluebell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.442472,
+          52.154701
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op Petrol Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.398260,
+          53.346759
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Slough Fire & Rescue Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.611929,
+          51.511652
         ]
       }
     },
