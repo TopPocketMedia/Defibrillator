@@ -30,6 +30,71 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Golden Acre Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.594778,
+          53.871793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express, Pensnett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.122309,
+          52.500941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Oak Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.130721,
+          52.500669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Next to the White Hart Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.458015,
+          52.010808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ashcombe House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.327518,
+          51.294773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Oxford Rd E"
       },
       "geometry": {
