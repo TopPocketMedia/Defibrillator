@@ -69,6 +69,58 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Kingsclere Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.970011,
+          51.152499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Oaklands Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.777218,
+          50.847375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Kings Arms Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.480202,
+          52.378782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fleet Station MOT & Repair Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.830006,
+          51.289227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Next to the White Hart Pub"
       },
       "geometry": {
@@ -89,6 +141,19 @@
         "coordinates": [
           -0.327518,
           51.294773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Seghill Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551418,
+          55.063224
         ]
       }
     },
