@@ -82,6 +82,84 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "RAF Northolt Guardroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.417173,
+          51.554057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ponteland Medical Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.749736,
+          55.051181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Whaddon Jubilee Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.827182,
+          52.000229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "BT openreach building. Held in office."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.754659,
+          52.020721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Corinthian House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096135,
+          51.377197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Warnham Nature Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.335351,
+          51.078409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Oaklands Pavilion"
       },
       "geometry": {
