@@ -3280,6 +3280,123 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "Holy Island Village Hall - Crossman Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.801438,
+          55.670753
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Windsor Baptist Church - Inside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.611148,
+          51.479773
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Old Telegraph Office - Inside Phone Box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.953834,
+          50.725934
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Mary's Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.174255,
+          51.517351
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Adswood Road Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.169601,
+          53.388822
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "ST. Ambrose R.C. Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.166669,
+          53.392554
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Beechwood Cancer Care Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.170441,
+          53.393376
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Coldstream Medical Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.263643,
+          55.647839
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Blackberry Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.691463,
+          52.022017
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "High Street"
       },
       "geometry": {
