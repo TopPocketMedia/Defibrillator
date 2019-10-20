@@ -3306,6 +3306,32 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "The Fighting Cocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.133587,
+          50.782728
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "CJK Packaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.924491,
+          53.333217
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "Old Telegraph Office - Inside Phone Box"
       },
       "geometry": {
