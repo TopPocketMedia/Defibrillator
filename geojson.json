@@ -3306,6 +3306,32 @@
   {
       "type": "Feature",
       "properties": {
+        "name" : "Brighton Road Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.321448,
+          51.060548
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brockmoor Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.130155,
+          52.488792
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
         "name" : "The Fighting Cocks"
       },
       "geometry": {
@@ -6485,6 +6511,253 @@
         "coordinates": [
           -0.264037,
           50.839607
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.149743,
+          52.489479
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Royal British Legion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.169708,
+          52.497057
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ashwood Park Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.167653,
+          52.472091
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brierley Hill Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.119816,
+          52.478412
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Wall Heath Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.179272,
+          52.504174,
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Peter’s Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.131095,
+          52.437031
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Phoenix Centre Specialist Preschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.165918,
+          52.483955
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brier School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.152810,
+          52.490500
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dudley Kingswinford Rugby Football Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.189970,
+          52.502404
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "New Bradley Hall Residential Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168131,
+          52.492694
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Acres Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.149257,
+          52.485789
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Memorial Gardens, Belper - On Wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.480150,
+          53.023054
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Arise Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.165616,
+          52.505404
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Penn Models"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.170047,
+          52.503296
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Asda Dudley Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.109826,
+          52.480202
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Swindon Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.205649,
+          52.512853
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Glynne Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.172070,
+          52.488010
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "SPAR Lawnswood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.173363,
+          52.482740
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kingswinford Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.162352,
+          52.497782
         ]
       }
     },
