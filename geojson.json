@@ -69,6 +69,149 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Chester Le Street Masonic Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.575141,
+          54.855285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "GL Events UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.334233,
+          52.851466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Health Factory Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.167648,
+          52.496431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pwll TRAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.529472,
+          51.820768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144775,
+          52.218470
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Esso Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.170081,
+          52.501452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Old Dalby Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.002493,
+          52.806773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Crestwood School & 6th Form"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.150491,
+          52.489991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Asda Brierley Hill Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.119787,
+          52.483192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Amblecote Dental Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.123814,
+          52.468557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stourbridge Jobcentre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.148620,
+          52.458894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Kingsclere Dental Practice"
       },
       "geometry": {
