@@ -56,6 +56,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "End of Eastbourne Pier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.295413,
+          50.765829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Emmanuel Church Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.977197,
+          54.581462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ellesmere College Bus Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.164441,
+          52.610118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "High Oak Surgery"
       },
       "geometry": {
@@ -1740,6 +1779,58 @@
         "coordinates": [
           0.267140,
           51.123191
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Franks International Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.267140,
+          51.123191
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hornsey Town Hall Arts Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.122315,
+          51.578875
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Franks International Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.267140,
+          51.123191
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Downley Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.082179,
+          57.113238
         ]
       }
     },
