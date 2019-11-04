@@ -69,6 +69,149 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Surf's Up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.970175,
+          54.586123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ponteland Community Middle School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.742753,
+          55.043886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Market Row"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.435115,
+          54.339487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kinmel Bay Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.516649,
+          53.302832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Cricketers Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.368126,
+          53.142629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "West Midlands Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.122752,
+          52.483819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "West Bromwich Albion FC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.963943,
+          52.509039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Blanford Mere Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.159618,
+          52.503921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Golden Sands Holiday Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.533831,
+          53.308684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Saltburn Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.972529,
+          54.582490
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Westy Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.556200,
+          53.387428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Emmanuel Church Hall"
       },
       "geometry": {
