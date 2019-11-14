@@ -30,6 +30,279 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Wombourne Civic Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.185651,
+          52.533520
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Upper Arley Church of England Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.343826,
+          52.420231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Broadbridge Heath Village Centre Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.360949,
+          51.067583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.447407,
+          53.255742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Nethy Bridge Visitor Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.657087,
+          57.264349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Network Rail, Square One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.224593,
+          53.476947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Doddington Heights Park Homes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.599256,
+          52.373851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Withymoor Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.123701,
+          52.474460
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brockmoor Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.129039,
+          52.483780
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fishermans Joy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.785607,
+          50.730892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bartestree Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.644937,
+          52.065616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "St John Ambulance Dudley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.084700,
+          52.506712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brierley Hill Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.120520,
+          52.488240
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Crofton Community Association"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.215717,
+          50.823730
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stubbington Green Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.213436,
+          50.825895
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stubbington Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.220355,
+          50.833169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bachelors Acre Toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.607655,
+          51.480413
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "name" : "William Street Car Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.610982,
+          51.479898
+        ]
+      }
+    },
+	      {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.431005,
+          57.597647
+        ]
+      }
+    },
+	      {
+      "type": "Feature",
+      "properties": {
+        "name" : "McColl's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.986373,
+          53.817405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Down School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.787211,
+          51.480197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Golden Acre Cafe"
       },
       "geometry": {
