@@ -56,6 +56,279 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Outfit Moray & Bike Revolution"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.287655,
+          57.724613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Village Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.061152,
+          51.344500
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Boing Zone Trampoline Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.145557,
+          52.460305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Toad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.731799,
+          53.299862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "St John Ambulance Worcester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.210942,
+          52.189149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Extra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.148492,
+          52.457411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bull St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.896333,
+          52.481931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Pegasus Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.106039,
+          52.503136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Link Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.087828,
+          52.493070
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Morrisons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.163331,
+          52.506758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Inchkeith House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.173393,
+          55.968180
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Potters House Church Portsmouth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.082932,
+          50.801274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Windmill Hill Children's Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.670454,
+          53.337772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.156325,
+          52.470349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "East Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.303465,
+          53.762415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Braunstone Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.175701,
+          52.618412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Copperfield Cl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.795880,
+          54.140334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Boxley's Butchers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.186374,
+          52.536200
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Falkland House School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.224107,
+          56.253239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "War Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.062163,
+          50.902700
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Wombourne Civic Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.185647,
+          52.533525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Broadbridge Heath Village Centre Social Club"
       },
       "geometry": {
