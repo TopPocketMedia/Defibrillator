@@ -43,6 +43,214 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Co-op Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.459141,
+          57.517709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Teacup Tearoom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.787586,
+          50.271067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.459145,
+          57.517706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.877346,
+          51.899199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Leighs Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.507116,
+          51.825831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Felsted Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.451763,
+          51.862828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Marks & Spencer Pantheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.137984,
+          51.515228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.117280,
+          52.509147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bamford Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.427152,
+          52.780378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Alton Assembly Rooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.973938,
+          51.149771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Alton Methodist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.977444,
+          51.146611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Aberthin Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.429051,
+          51.466690
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Gravel Hill Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.488257,
+          51.750707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Ings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.720447,
+          53.881757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Gravel Hill Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.488260,
+          51.750713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "DS Smith Packaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.481673,
+          53.012481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Upper Arley Church of England Primary School"
       },
       "geometry": {
