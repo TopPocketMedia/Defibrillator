@@ -69,6 +69,188 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Harbour Master's Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.112759,
+          51.210866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bideford Quay harbour masters office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.204005,
+          51.018930
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Appledore Community Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.194101,
+          51.051447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Costco Birmingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.854666,
+          52.502875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Nrc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.008261,
+          53.376019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "TSB Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.290656,
+          54.607941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Limpsfield Sub Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014870,
+          51.257579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Moulsford Pavilion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.151322,
+          51.550658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Corn Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.124492,
+          51.599881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mackenzie & Cruickshank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.639517,
+          57.606608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.688917,
+          52.022716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Harlaw House Visitor Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.310661,
+          55.873383
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.117269,
+          52.509134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dudley Magistrates' Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.087757,
+          52.509795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Co-op Food"
       },
       "geometry": {
