@@ -95,6 +95,279 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "The Moorings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.253499,
+          50.829729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Clifton Suspension Bridge Visitor Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.630714,
+          51.453883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Writtle Infant School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.423007,
+          51.726080
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Birmingham New Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.898958,
+          52.477787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Staining Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.986552,
+          53.815741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "YMCA Southampton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.400839,
+          50.914274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hopton Wafers Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.535181,
+          52.384126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Home Bargains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.080193,
+          52.510285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lane ends shops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.071584,
+          50.687774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "RNLI Bembridge Lifeboat Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.070483,
+          50.690166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bembridge Coast Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.070948,
+          50.685600
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Elms Nursing Care Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.080923,
+          50.689461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bembridge Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.081669,
+          50.685769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bembridge Youth and Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085841,
+          50.684262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bembridge Bowling Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.087487,
+          50.687723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bembridge Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.088961,
+          50.690735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Brading Haven Yacht Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.105885,
+          50.692945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bembridge Sailing Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.093059,
+          50.693388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Hilary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.422371,
+          50.131459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "McColl's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.986135,
+          53.817469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "South Moreton County Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.193669,
+          51.590531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "Appledore Community Fire Station"
       },
       "geometry": {
