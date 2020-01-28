@@ -95,6 +95,812 @@
     {
       "type": "Feature",
       "properties": {
+        "name" : "Eternity Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.366438,
+          52.599587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Downham Market Methodist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.375230,
+          52.604405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hillcrest Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.392470,
+          52.605319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Discover Downham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.373458,
+          52.602251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Castle Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.378669,
+          52.603855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Accent Fresh Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.362006,
+          52.597959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Slessor Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.966968,
+          56.459136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dundee Railway Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.971389,
+          56.456529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "APEC Taxis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.723510,
+          53.331431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Blackness Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.991820,
+          56.456772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Halfway House on the Wrekin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.538162,
+          52.677237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Runcorn ABC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.663680,
+          53.323600
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Village Hall, Ten Mile Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.363169,
+          52.547091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Belmont Nusery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.285716,
+          52.767380
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Delifresh ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.739769,
+          53.788708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Little Brechin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.683468,
+          56.753056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Terrington St Clement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.293147,
+          52.755658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lowton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.568130,
+          53.481369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Roche Community Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.830839,
+          50.403505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.119267,
+          51.521885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The White Dog Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.557591,
+          50.993063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rye Sports Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.731894,
+          50.954225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mitcheldean Community Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.488961,
+          51.865296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "David Lloyd Dudley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.125976,
+          52.487229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "High Chelmer Shopping Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.472305,
+          51.733912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Standard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.438250,
+          54.344518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Portishead Yacht & Sailing Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.792221,
+          51.485925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Watkins & Tasker Veterinary Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.758878,
+          51.484642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Boots"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.768815,
+          51.483798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Arts Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.487294,
+          53.382747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Plaistow Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028794,
+          51.531715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "St Budeaux Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.185660,
+          50.401279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Asda Longwell Green Supercentre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.495053,
+          51.447279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Collett School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.480665,
+          51.757033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chesterton Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.251279,
+          53.042938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Bayford Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.104024,
+          51.758152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Marks & Spencer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.736355,
+          52.010731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.402538,
+          51.225865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Arnold & District Victory Club Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.133195,
+          53.000258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Smith & Williamson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.406812,
+          50.910103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Haskins Garden Centre Roundstone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.473324,
+          50.819315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Buzz Bingo and Slots Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.379209,
+          50.809979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Wargrave Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.861960,
+          51.501655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Stourbridge Rugby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.181196,
+          52.461588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.192763,
+          51.007083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Outside INTU shopping centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.175660,
+          53.027351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Owls Hill Phonebox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.564711,
+          51.807022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "East of England Co-op Foodstore, Hatfield Peverel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.597778,
+          51.776710
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Winstanley Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.668905,
+          53.521422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Ysgol Bryn Alyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.023531,
+          53.074936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Newton Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.005571,
+          53.827508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chase Terrace Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.933395,
+          52.684231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Highwood Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.376255,
+          51.712226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Campbell Park Parish Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.746033,
+          52.037127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Didmarton Kings Arms bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.264059,
+          51.585682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Rettendon Bell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.548720,
+          51.655164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Surrey History Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.570045,
+          51.317044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Church House Dental Practice Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.275157,
+          50.832013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "281 Cwmamman Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.910727,
+          51.802537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989188,
+          51.787488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Madoch Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.299206,
+          56.376107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Proact Stadium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.425722,
+          53.253584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name" : "The Moorings"
       },
       "geometry": {
