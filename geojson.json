@@ -39,6 +39,214 @@
           52.533520
         ]
       }
+    },    
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "ASDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.032935,
+          57.691172
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Maitlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.007255,
+          57.693090
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Old Parish Church Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.009381,
+          57.694485
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fraserburgh Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.015504,
+          57.688098
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "SPAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.027288,
+          57.679197
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Swimming Pool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.007876,
+          57.683789
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Harbour Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.003797,
+          57.692452
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.019058,
+          57.689273
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Symposium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.005534,
+          57.693646
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Baptist Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.007967,
+          57.689912
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Dalrymple Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.004276,
+          57.690637
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Lifeboat Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.002895,
+          57.693586
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Sandhaven and Pitullie Community Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.066123,
+          57.697206
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Mitchell Court Sheltered Housing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.060807,
+          57.696298
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Masonic Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.114059,
+          57.696647
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Rosehearty Community Boat Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.115045,
+          57.698662
+        ]
+      }
     },
     {
       "type": "Feature",
