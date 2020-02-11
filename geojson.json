@@ -69,26 +69,260 @@
 	  {
       "type": "Feature",
       "properties": {
-        "name" : "Old Parish Church Centre"
+        "name" : "Maitlands"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.009381,
-          57.694485
+          -2.007255,
+          57.693090
         ]
       }
     },
 	  {
       "type": "Feature",
       "properties": {
-        "name" : "Fraserburgh Academy"
+        "name" : "The Salehurst Halt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.015504,
-          57.688098
+          0.490171,
+          50.990813
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Mercury Yacht Harbour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.312888,
+          50.870807
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Mercury Yacht Harbour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.312888,
+          50.870807
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Dales Engineering Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.812548,
+          57.486196
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bridge St - In BT phonebook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.090408,
+          57.586524
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "High St - Behind cow statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.461978,
+          57.537506
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Shotley Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.252085,
+          51.969127
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Arnold Clark Peterhead Ford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.806071,
+          57.487290
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Peterhead Masonic Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.776975,
+          57.504844
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Peterhead Bowling Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.785874,
+          57.507431
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Old Buckenham Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.041051,
+          52.485061
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The High Street Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.344857,
+          53.460364
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Royal British Legion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634429,
+          50.335393
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Lankelly Rugby Football Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.656522,
+          50.335223
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Royal Fowey Yacht Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.635772,
+          50.334480
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Waitrose & Partners East Sheen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.268653,
+          51.464523
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Seaboard Memorial Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.903601,
+          57.759131
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Green Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.418133,
+          55.887713
+        ]
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "name" : "Flitwick Eagles FC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.500590,
+          52.015893
         ]
       }
     },
