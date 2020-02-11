@@ -27,16 +27,199 @@
         ]
       }
     },
-    {
+{
       "type": "Feature",
       "properties": {
-        "name" : "Wombourne Civic Centre"
+        "name" : "Park Place, Horsham"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.185651,
-          52.533520
+          -0.326044,
+          51.061496
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Park Place, Horsham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.326044,
+          51.061496
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Ark Alexandra Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.570938,
+          50.873803
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "East of England Co-op Foodstore, Long Melford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.716570,
+          52.077235
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Maverick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.154530,
+          52.470529
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Dudley Jobcentre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.087547,
+          52.510628
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "LCP House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.145919,
+          52.505843
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Hoddom Castle Caravan Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.323134,
+          55.044376
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Lindrum Avenue Bus Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.126620,
+          53.235712
+        ]
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.368174,
+          51.407916
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "DW Sports Fitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.961315,
+          56.464260
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Knowle, EX33 2LY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.155083,
+          51.125089
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Superstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.004357,
+          57.679433
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Age UK Exeter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542577,
+          50.715972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Solihull Metropolitan Borough Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.777618,
+          52.411549
         ]
       }
     },    
