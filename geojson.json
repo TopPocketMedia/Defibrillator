@@ -43,6 +43,162 @@
 {
       "type": "Feature",
       "properties": {
+        "name" : ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.326044,
+          51.061496
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Damira Wellum House Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.478873,
+          51.203544
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.695704,
+          51.540832
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Peterhead Community Education Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.796732,
+          57.511283
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Ayr Curling Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.626059,
+          55.473149
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Nuffield Southampton Theatres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.397446,
+          50.936047
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Southend Leisure & Tennis Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.734594,
+          51.554607
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Grimston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.058558,
+          53.798749
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "6 Old Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.140086,
+          51.783816
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "18 Norfolk St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.281249,
+          53.498465
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Opposite RPB Motors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.315656,
+          50.520713
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Royal Air Force Station Waddington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.530565,
+          53.172637
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
         "name" : "Park Place, Horsham"
       },
       "geometry": {
