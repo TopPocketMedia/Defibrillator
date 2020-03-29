@@ -30,26 +30,442 @@
 {
       "type": "Feature",
       "properties": {
-        "name" : "Park Place, Horsham"
+        "name" : "Tesco Express"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.326044,
-          51.061496
+          -1.158746,
+          52.273855
         ]
       }
     },
 {
       "type": "Feature",
       "properties": {
-        "name" : ""
+        "name" : "SPAR - Ashford"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.326044,
-          51.061496
+          0.971169,
+          51.126166
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Pixie Dell Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.175053,
+          51.112033
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Caton St Paul's Church of England Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.700441,
+          54.074107
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Asda Grimsby Supercentre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.076530,
+          53.568325
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Black Hugh & Sons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.168340,
+          55.819169
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Leven Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.996212,
+          56.196111
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Asda Sheffield Catchbar Lane Supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504268,
+          53.411882
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Rosehearty Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.118597,
+          57.695014
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Maypole Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.701706,
+          51.334663
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Chequers Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.163333,
+          52.620917
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Corner of Boscobel Road and West Hill Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.548671,
+          50.852860
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Prudhoe Community High School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.849596,
+          54.956652
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Saffron Walden Community FC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.245633,
+          52.007198
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Saffron Walden Golf Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.233066,
+          52.025569
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Saffron Walden Town Football Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.240066,
+          52.027819
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Lakeside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.284193,
+          51.489273
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op Food Petrol Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.484738,
+          52.378406
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "McDonald's Widnes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.740655,
+          53.361604
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "East Tilbury Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.417855,
+          51.480648
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Etchingham Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.435706,
+          51.008183
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Etchingham Train Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.442326,
+          51.010619
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Etchingham Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.429731,
+          51.007434
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Port Seton Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.950957,
+          55.969358
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bleadon Coronation Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.947788,
+          51.306841
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Food Writtle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.432031,
+          51.729642
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Tesco Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.471041,
+          51.729007
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Redcar Jobcentre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.068433,
+          54.616457
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "84 Baginton Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.514352,
+          52.384552
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Westlain House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085598,
+          50.860193
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Ramsbury & Wanborough Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.697921,
+          51.542419
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "WJ North Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.256615,
+          53.017137
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Letchworth Sports And Tennis Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.228805,
+          51.968195
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name" : "All Saints' Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.347445,
+          54.531035
         ]
       }
     },
