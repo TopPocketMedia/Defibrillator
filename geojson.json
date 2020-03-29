@@ -4113,19 +4113,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name" : "13 rue Raymond Hervouet"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.235993,
-          46.189270
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name" : "St Neots Golf Club"
       },
       "geometry": {
@@ -4159,58 +4146,6 @@
         "coordinates": [
           -0.506509,
           50.814269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name" : "salle des fetes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.341478,
-          46.182798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name" : "11 La Grand Rue"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.386504,
-          46.238921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name" : "salle polyvalente de Soumans"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.306578,
-          46.301485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name" : "Mille Club"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.120783,
-          46.304631
         ]
       }
     },
