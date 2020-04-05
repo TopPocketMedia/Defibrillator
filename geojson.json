@@ -56,6 +56,71 @@
 {
       "type": "Feature",
       "properties": {
+        "name" : "West End Butchers - Outside wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.994269,
+          56.456455
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Inverness Leisure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.239806,
+          57.464184
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "St James"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.145129,
+          51.589281
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Hempstead Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.572944,
+          51.341418
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Wren Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.670930,
+          52.339170
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
         "name" : "Pixie Dell Stores"
       },
       "geometry": {
