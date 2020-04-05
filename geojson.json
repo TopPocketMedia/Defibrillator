@@ -56,6 +56,32 @@
 {
       "type": "Feature",
       "properties": {
+        "name" : "Moresby Parks Rd - Telephone box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.551520,
+          54.554605
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Jericho Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.567853,
+          54.542008
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
         "name" : "West End Butchers - Outside wall"
       },
       "geometry": {
