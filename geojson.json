@@ -56,6 +56,253 @@
 {
       "type": "Feature",
       "properties": {
+        "name" : "Incey Winceys Childcare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.026818,
+          51.593500
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "St James"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.145139,
+          51.589288
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Midsomer Norton Town Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.482912,
+          51.285485
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Hall and Woodhouse Brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164166,
+          50.852026
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Clutton Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.539365,
+          51.329518
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "John Lewis & Partners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.224987,
+          51.575850
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "17 Greenacre Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.855856,
+          53.365178
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Marine Football Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.032956,
+          53.485570
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Moulsham Lodge Community Trust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.473902,
+          51.716379
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Great Baddow Community Association Millennium Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.495642,
+          51.718518
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Memorial Hall Hardingham Norfolk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.016230,
+          52.593563
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Lochmaben Golf Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.441681,
+          55.127471
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Castle St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.281198,
+          51.089134
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Wincanton Sports Ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.403009,
+          51.048247
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Longford Social Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.049755,
+          52.684009
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "RBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.098037,
+          57.146991
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Glick D Optical Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.520354,
+          51.612348
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Weaverham Community Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.576946,
+          53.260976
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Victory Bowls Association Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.080426,
+          50.825003
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
         "name" : "Moresby Parks Rd - Telephone box"
       },
       "geometry": {
