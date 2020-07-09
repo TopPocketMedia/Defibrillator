@@ -56,6 +56,292 @@
 {
       "type": "Feature",
       "properties": {
+        "name" : "Tiphereth, Camphill Scotland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.276730,
+          55.897541
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "2 Rivers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.002075,
+          50.739459
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Merley House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.989094,
+          50.784444
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Co-operative Funeralcare - Wisbech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.168831,
+          52.654521
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Weston Mill Community Primary Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.177361,
+          50.396204
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The White Hart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.989060,
+          50.799337
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Lantern Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.969375,
+          50.785051
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "SPAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.975908,
+          54.583925
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Girton Golf Club & AF Golf Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.076773,
+          52.244253
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Verne Road Dental Practice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.467624,
+          55.011696
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Resolute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.774915,
+          51.568986
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Co-op Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.593139,
+          51.976496
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Allithwaite community centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.940868,
+          54.181747
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Jubilee Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.210532,
+          50.953074
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Kings Christian Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.212871,
+          50.954102
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Forest Hall boxing club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551159,
+          55.026258
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Newcastle Freeman Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.593268,
+          55.002554
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Sudbury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.191017,
+          54.524853
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Old Down Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.141732,
+          51.236257
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Jubilee Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.415084,
+          52.679036
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "SPAR Milton Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.976035,
+          54.583915
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "The Philip Morant School and College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.872079,
+          51.881740
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
         "name" : "Incey Winceys Childcare"
       },
       "geometry": {
@@ -154,6 +440,84 @@
         "coordinates": [
           -3.032956,
           53.485570
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Haymarket Shopping Centre (Centre square)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.131631,
+          52.636861
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Marshfield Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.316964,
+          51.463014
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Coombe Bissett Stores and Post Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.845625,
+          51.036485
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Coombe Bissett Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.844383,
+          51.033440
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Bitham walk hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.937535,
+          51.162489
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "name" : "Woolavington Village Hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.935995,
+          51.168802
         ]
       }
     },
