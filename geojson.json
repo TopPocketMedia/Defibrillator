@@ -79,6 +79,162 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "RNLI weymouth lifeboat station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.450294,
+          50.607415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Chiltonian Industrial Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.008045,
+          51.450307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Morrisons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.207319,
+          51.236958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Kamsons Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.255053,
+          50.779882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Fisherman's Green Tennis Courts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.306228,
+          50.777711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Helen Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.269740,
+          50.752681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Junction of Derwent Lane and Coggers Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.661736,
+          53.331281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "The Scotsman's Pack Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.649420,
+          53.331954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Hathersage Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.653904,
+          53.329273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Contract Fire Security"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.813125,
+          52.561363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Toilet Building West Mersea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.927651,
+          51.774201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "Killinghall Moor Community Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.574362,
+          53.998610
+        ]
+      }
+    },
 {
       "type": "Feature",
       "properties": {
